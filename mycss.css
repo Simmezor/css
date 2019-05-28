@@ -1098,8 +1098,6 @@ ts-jumper, ts-jumper.active {
 }
 ts-jumper ts-jumper-container {
   box-shadow: 0 5px 20px rgba(0,0,0,1);
-	position:absolute;
-	top:250px;
-	left:0px;
-	right:0px;
+	visability:hiden;
+
 }
