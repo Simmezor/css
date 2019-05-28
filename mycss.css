@@ -1100,7 +1100,7 @@ ts-jumper ts-jumper-container {
   box-shadow: 0 5px 20px rgba(0,0,0,1);
 
 }
-c-button-unstyled.p-channel_sidebar__jumper
+p-channel_sidebar__jumper.c-button-unstyled
 {
 	visability:hidden;
 }
